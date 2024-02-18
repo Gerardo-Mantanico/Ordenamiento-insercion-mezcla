@@ -1,0 +1,9 @@
+# ninja log v5
+6	710	7299797070844383	CMakeFiles/Ordenamineto_insercion_mezcla.dir/main.cpp.obj	bfeeb8ada783177
+521	628	7299797978487275	Ordenamineto_insercion_mezcla.exe	afd424645a5126fe
+1	438	7299798666506566	build.ninja	a4862aef4e40dce6
+6	474	7299225017428141	CMakeFiles/Ordenamineto_insercion_mezcla.dir/Insercion.cpp.obj	57487e33469a0921
+0	520	7299797977458640	CMakeFiles/Ordenamineto_insercion_mezcla.dir/Mezcla.cpp.obj	38f271324edaa6f6
+1	382	7299798666506566	build.ninja	a4862aef4e40dce6
+0	1408	7299798681370110	CMakeFiles/Ordenamineto_insercion_mezcla.dir/Insercion.cpp.obj	57487e33469a0921
+1409	1638	7299798683588292	Ordenamineto_insercion_mezcla.exe	cfaf3b3f0243982b

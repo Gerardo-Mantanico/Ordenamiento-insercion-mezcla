@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/Ordenamineto-insercion-mezcla/cmake-build-debug/CMakeFiles/Ordenamineto_insercion_mezcla.dir
+C:/Users/HP/CLionProjects/Ordenamineto-insercion-mezcla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/Ordenamineto-insercion-mezcla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
